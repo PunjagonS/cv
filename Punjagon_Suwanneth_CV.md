@@ -11,33 +11,46 @@ LinkedIn: [https://www.linkedin.com/in/punjagons/](https://www.linkedin.com/in/p
 ---
 
 ## Professional Summary  
-A motivated and detail-oriented **Technical Lead / IT Assistant Manager** with a solid track record of delivering high-quality projects in the fintech, healthcare, and insurance industries. Proven ability to lead teams, manage full-stack development processes, and provide technical solutions that drive success. Skilled in various programming languages and frameworks, with a passion for continuous learning and improvement.
+**Technical Lead / IT Assistant Manager** with proven experience leading engineering teams, owning delivery and technical direction, and bridging business and technology across international environments. Demonstrated ability to modernize complex systems, improve development practices, and deliver high-quality solutions through strong leadership, architectural oversight, and hands-on technical expertise.
 
 ---
 
 ## Work Experience
 
-### Project Leader - BHC24 Chatbot Care System   
-**Freelance Project (Aug 2024 – Present)**  
-- **Project:** BHC24 Chatbot Care System (MVP Project)  
-- **Team Size:** Led a team of 4 members to deliver the project.  
-- **Technology:** Developed using serverless architecture on AWS with Rust, integrating Line chat as the frontend along with Web Line LIFF.  
-- **Web Interface:** Built with React, deployed on AWS Amplify with GitHub Actions for CI/CD to ensure continuous deployment.  
-- **Architecture:** Utilized Clean Architecture to ensure modularity, scalability, and maintainability of the system.  
-- **Objective:** Collected patient medical records stored on S3 via Line webhook communication to the backend services.  
-- **Impact:** Streamlined patient record management, improving response time for medical staff.  
-- **Responsibilities:** Led requirement gathering, system design, and implementation of core backend services using AWS Lambda, API Gateway, DynamoDB, and Rust. Collaborated with stakeholders to define requirements and ensured the system met the needs of medical staff and administrators.
+### Technical Lead  
+**ANAVEO GROUPE · (Jan 2025 – Present)**  
+- Led the modernization and full overhaul of a legacy **WPF core application**, driving architectural refactoring and supervising the transition to a redesigned UI/UX.
+- Owned and validated the design and implementation of the **IoT integration layer** using **Azure IoT Hub**, ensuring reliable handling of camera events, hardware triggers, device signals, and relay operations.
+- Acted as the **Technical Decision Maker**, validating requirements, assessing technical feasibility, performing high-level estimations, and ensuring alignment with architectural and platform standards.
+- Directed **cross-region collaboration** between the Thailand development team and the France-based engineering and solution architecture teams, ensuring consistent system design and smooth integration.
+- Established and enforced **engineering standards and development practices** for the Thailand team, covering code quality, workflows, SDLC discipline, and architectural alignment.
+- Worked closely with international leadership, including the **Managing Director**, translating business objectives into executable technical roadmaps and delivery strategies.
+- Served as **Scrum Master and Team Lead**, overseeing sprint planning, backlog prioritization, task assignment, code reviews, developer mentoring, QA coordination, and overall delivery quality.
+- Designed and maintained **CI/CD pipelines** using **Azure DevOps**, covering .NET/WPF and Windows Service builds, artifact management, automated versioning, branch policies, code scanning, and quality gates.
+- Provided hands-on technical support for complex issues, occasionally stepping in to resolve **critical production bugs** and unblock high-impact releases.
+- Participated in **technical interviews and hiring decisions**, evaluating candidates for technical capability, team fit, and long-term engineering standards.
 
-### Technical Lead 
+### Project Leader  
+**BHC24 Chatbot Care System · Freelance (Aug 2024 – Contract)**  
+- Led the design and delivery of a healthcare chatbot MVP, managing a cross-functional development team from solution design through production release.
+- Designed and implemented a **serverless backend architecture on AWS** using **Rust**, ensuring scalability, reliability, and secure handling of patient data.
+- Integrated **LINE Messaging Platform and LINE LIFF** as the primary user interface, enabling patient interaction through chat-based workflows.
+- Developed and deployed a **React-based web interface** using **AWS Amplify**, with automated CI/CD pipelines via **GitHub Actions**.
+- Applied **Clean Architecture principles** to ensure long-term maintainability and clear separation of concerns across services.
+- Implemented backend services using **AWS Lambda, API Gateway, DynamoDB, and S3**, handling webhook processing and medical record storage.
+- Worked closely with stakeholders to refine requirements and align technical solutions with real-world healthcare workflows.
+- Delivered measurable improvements in medical record handling efficiency, reducing response time for healthcare staff.
+
+### Technical Lead
 **Krungsri Nimble Co. Ltd. (Jan 2022 – Jul 2024)**  
-- **Project:** KMA Application  
-  - **Release Owner:** Managed all aspects of release cycles, from planning to deployment, ensuring the application met quality and performance standards.  
-  - **Platform Migration:** Led the migration of legacy systems to new platforms, resulting in a 40% improvement in performance and enhanced security and scalability.  
-  - **Team Leadership:** Directed a team of developers, providing technical guidance, code reviews, and mentoring.  
-  - **Technical Consultation:** Worked closely with stakeholders, translating business requirements into technical solutions.  
+- **Project:** KMA Application
+  - **Release Owner:** Managed all aspects of release cycles, from planning to deployment, ensuring the application met quality and performance standards.
+  - **Platform Migration:** Led the migration of legacy systems to a modern platform, improving application performance, stability, and security while preparing the system for future scalability.
+  - **Team Leadership:** Directed a team of developers, providing technical guidance, code reviews, and mentoring.
+  - **Technical Consultation:** Worked closely with stakeholders, translating business requirements into technical solutions.
   - **Product Support:** Oversaw troubleshooting and provided technical assistance to ensure smooth operations.
 
-### Senior Full Stack Programmer  
+### Senior Full Stack Programmer
 **Thanachart Insurance Plc. (Dec 2021 – Dec 2022)**  
 - **Project Leader:** [Thanachart HR Website](https://www.thanachart-insurance.co.th/hr)  
   - Developed the website using **Sitefinity CMS (C#)**.  
@@ -102,9 +115,9 @@ A motivated and detail-oriented **Technical Lead / IT Assistant Manager** with a
 - **Languages:**  
   - **Advanced:** Rust, C#
   - **Intermediate:** JavaScript, SQL
-  - **Familiar:** TypeScript, Python, C++, Java, Golang, Dart
+  - **Familiar:** Python, C++, Java, Golang, Dart
 
-- **Cloud & DevOps Tools:** AWS, Jenkins, OpenShift, Docker, SonarQube
+- **Cloud & DevOps Tools:** Azure DevOps, AWS, Jenkins, OpenShift, Docker, SonarQube, Qodana
 
 - **Database & Server Tools:** SQL Server, IIS, Nginx, Redis, PostgreSQL
 
